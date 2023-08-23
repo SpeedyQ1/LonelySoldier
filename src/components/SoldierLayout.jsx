@@ -42,8 +42,6 @@ function loginState() {
   return (
     <div id='body-container'>
       <nav id='navbar'>
-        <Link to='/Soldier' className="link"><img className="logo" src="../../logo.jpg" alt="MindGames Logo" /></Link>
-
         <div className="nav-title"><Link to='/Soldier' className="link navLink">בית</Link><span></span></div>
         <div className="nav-title"><Link to='/Soldier/SweetHome' className="link navLink">בית חם</Link><span></span></div>
         <div className="nav-title"><Link to='/Soldier/WalkingWith' className="link navLink">צועדים איתך</Link><span></span></div>
