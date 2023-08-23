@@ -1,0 +1,77 @@
+{
+  "LoneSoldier": [
+    {
+      "email":"guest@guest",
+      "password":"1234", 
+      "name": "אורח", 
+      "lastName": "כלשהו"
+    },
+    {
+      "email":"shimon@uiuc.edu",
+      "password":"UxxWQ", 
+      "name": "שמעון", 
+      "lastName": "גאון"
+    },
+    
+    {
+      "email":"shon@gmail.com",
+      "password":"1234", 
+      "name": "שון", 
+      "lastName": "ירושלמי"
+    },
+    {
+      "email":"banana@info.com",
+      "password":"123Q4", 
+      "name": "ישראל", 
+      "lastName": "נבון"
+    },
+    {
+      "email":"batata@gmaiך.com",
+      "password":"awe12t", 
+      "name": "עדן", 
+      "lastName": "שמואלי"
+    },
+    {
+      "email":"jahav@yahoo.com",
+      "password":"ujerh321", 
+      "name": "נועה", 
+      "lastName": "לוי"
+    },
+    {
+      "email":"amazongals20@mohmember.website",
+      "password":"VxqfXmuhHc6Ez1vb2CAX", 
+      "name": "נעם", 
+      "lastName": "ישראלי"
+    },
+    {
+      "email":"danilibatullin@chupanhcuoidep.com",
+      "password":"3r5Cmsu21QyHzx66A34T", 
+      "name": "יהודה", 
+      "lastName": "אמיחי"
+    },
+    {
+      "email":"crippimp@bolinylzc.com",
+      "password":"Bq9ieswLWP5eMmijEHdq", 
+      "name": "אביחי", 
+      "lastName": "גולדנברג"
+    },
+    {
+      "email":"jaysnipe@murahpanel.com",
+      "password":"XP7H7VMkyC6", 
+      "name": "עומרי", 
+      "lastName": "גולדי"
+    },
+    {
+      "email":"dashing89@an-jay.engineer",
+      "password":"9HfnupVw6tG", 
+      "name": "עידו", 
+      "lastName": "לנץ"
+    },
+    {
+      "email":"riddarelli@gmailos.com",
+      "password":"meQJd3X6FsK", 
+      "name": "יוסף", 
+      "lastName": "שיידרמן"
+}
+]
+}

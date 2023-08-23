@@ -1,0 +1,36 @@
+{
+  "walkingWithYou": [
+    {
+      "id": "pspellesy0@uiuc.edu",
+      "img": "https://www.bloomberg.com/graphics/2022-highest-paid-ceos/img/musk.jpg" , 
+      "name": "משה", "lastName": "לוי",
+      "discription": "אבא אוהב, כרגע עובד בתור מנכל של חברת הייטק, מחכה כבר להכיר אותך להכווין אותך בדרכך לאזרחות וגם לאחר מכן, אתן לך את כל הכלים שתצטרך", 
+      "phone": "0544405343",
+      "contact": "משה"
+    },
+    {
+      "id": "rlitterick1@slate.com",
+      "img": "https://glaucoma.org/wp-content/uploads/elementor/thumbs/thinking-man-myths-debunked-pgsyueb5wfmyzq9b5kmn4trpyjhts8kaunlswsjif4.jpg" , 
+      "name": "יוסי", "lastName": "כהן",
+      "discription":"בן 43 , גר בנתניה , מוכן לעזור לך בכל שתצטרך ולקחת אותך למקומות שאתה רוצה", 
+      "phone": "0536827756",
+      "contact": "יוסי"
+    },
+    {
+      "id": "pompernickler@slate.com",
+      "img": "https://www.campaignforthearts.org/wp-content/uploads/2017/08/Stephen-Fry.jpg" , 
+      "name": "אביב", "lastName": "ניגורי",
+      "discription": "אבא טוב ,בן 51 גר ברמת גן, אקח אותך לאן שתחפוץ ואעזור לך בהכל", 
+      "phone": "0536887080",
+      "contact": "אביב"
+    },
+    {
+      "id": "cucamber@slate.com",
+      "img": "https://koerber-stiftung.de/site/assets/files/4345/csm_anthony_kevin_cheetham.450x450-hidpi.jpg" , 
+      "name": "יהב", "lastName": "אלמקייס",
+      "discription": "בן 38 , אבא ל3 אראה לך את הדרך הנכונה ואעזור לך עם מטרותיך אתן לך כל כלי שתצטרך", 
+      "phone": "0544400574",
+      "contact": "יהב"
+}
+]
+}

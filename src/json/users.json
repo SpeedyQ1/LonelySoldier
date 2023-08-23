@@ -1,0 +1,13 @@
+{
+    "users": [
+      {"email":"pspellesy0@uiuc.edu","password":"f25U0UU", "name": "משה", "lastName": "לוי"},
+      {"email":"rlitterick1@slate.com","password":"XJVPJE", "name": "יוסי", "lastName": "כהן"},
+      {"email":"pompernickler@slate.com","password":"sdgasduh", "name": "אביב", "lastName": "ניגורי"},
+      {"email":"cucamber@slate.com","password":"ujerhtiertk", "name": "יהב", "lastName": "אלמקייס"},
+      {"email":"avocadoman@slate.com","password":"poposds", "name": "יואב" , "lastName": "poopookie"},
+      {"email":"soshyMalca@slate.com","password":"gogoss", "name": "שושי", "lastName": "מלכה"},
+      {"email":"sahar.y.ash@gmail.com","password":"1234", "name":"סהר" , "lastName": "אש"}
+      
+    
+    ]
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#warm-container-container{
+    direction: rtl;
+}
+
+#waking-card {
+    width: 350px;
+    background-color: #B7E4C7;
+    margin: 20px;
+    height: 770px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+
+#image-container{
+    width: 100%;
+}
+
+#the-img{
+    width: 100%;
+}
+
+#card-discription{
+    padding: 20px;
+    height: 410px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+#vol-description{
+margin-bottom: 10px;
+}
+
+.walkingpage{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grab-my-hand-btn{
+    padding: 8px;
+    width: fit-content;
+}

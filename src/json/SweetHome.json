@@ -1,0 +1,55 @@
+{
+  "sweetHome": [
+    {
+      "id": "pspellesy0@uiuc.edu",
+      "img": "https://www.pixelstalk.net/wp-content/uploads/images6/Family-Wallpaper-HD.jpg" , 
+      "name": "משה", "lastName": "לוי",
+      "condition": "זמין בכל שעה" ,
+      "numberOfSouls": 4,
+      "aboutUs": " משפחה חמה ואוהבת, מנהלת עורך חיים מסורתי, יש ארוחת שישי. יש לנו 2 ילדים, יוסי בן 6, רוני בן 10", 
+      "contact": "משה",
+      "phone": "0544405262",
+      "location" : "דודו דותן 14 נתניה" ,
+      "conditions": "תקבל חדר משלך, אוכל חם וכל מה שתצטרך"
+    },
+    
+   {
+    "id": "rlitterick1@slate.com",
+   "img": "https://wallpaperaccess.com/full/1322957.jpg" , 
+   "name": "יוסי", "lastName": "כהן",
+   "condition": " 12:00-16:00 זמין בכל שעה חוץ" ,
+   "numberOfSouls": 3,
+   "aboutUs": " משפחה חמה ואוהבת, מנהלת עורך חיים מסורתי, יש ארוחת שישי. יש לנו ילד אחד , יוסי בן 6, ", 
+   "contact": "יוסי",
+   "phone": "0544403862",
+   "location" : "חיפה מוריה 11" ,
+   "conditions": "תקבל חדר ושירותים משלך, אוכל חם וכל מה שתצטרך"
+   },
+   {
+    "id": "pompernickler@slate.com",
+    "img": "https://images.pond5.com/happy-jewish-family-children-celebrates-footage-221927089_prevstill.jpeg" , 
+    "name": "אביב", "lastName": "ניגורי",
+    "condition": "  זמין בכל שעה חוץ 19:00-20:00" ,
+    "numberOfSouls": 4,
+    "aboutUs": " משפחה חמה ואוהבת, מנהלת עורך חיים דתי  , יש תפילות בביקת הכנסת(שחרית ערבית ומנחה), יש לנו 2 ילדים, חיים בן 8, גורי בן שנה", 
+    "contact": "אביב",
+    "phone": "0543405262",
+    "location" : "רחוב אבה טוביה אשקלון" ,
+    "conditions": "תקבל חדר משלך ומטבחון, אוכל חם בגדים וכל מה שתצטרך"
+  },
+
+  {
+    "id": "cucamber@slate.com",
+    "img": "https://s1.1zoom.me/b6755/692/Couples_in_love_Asian_Men_Sea_Beach_Stroll_Two_565218_1920x1080.jpg" , 
+    "name": "יהב", "lastName": "אלמקייס",
+    "condition": "  זמין בכל שעה " ,
+    "numberOfSouls": 2,
+    "aboutUs": " משפחה חמה ואוהבת, מנהלת אורך חיים חילוני, אין ילדים", 
+    "contact": "יהב",
+    "phone": "0548843945",
+    "location" : "חיפה שדרות הנשיא 34" ,
+    "conditions": "תקבל מיטה ,אוכל חם ,מלא אהבה וכל מה שתצטרך"
+  }
+  
+  ]
+}

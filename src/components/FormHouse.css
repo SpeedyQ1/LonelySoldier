@@ -1,0 +1,74 @@
+.Contactus {
+  background-color: #f5f5f5;
+  padding: 40px 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Contactus form {
+  margin-top: 20px;
+}
+
+.formRow {
+  margin-bottom: 20px;
+}
+
+.formInput {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #8ebf42;
+  font-size: 16px;
+}
+
+.errorMessage {
+  color: #8ebf42;
+  font-size: 14px;
+  display: block;
+  margin-top: 5px;
+}
+
+.submit-btn {
+  background-color: #8ebf42;
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #77a839;
+}
+
+.submit-btn:focus {
+  outline: none;
+}
+
+.new-message-btn {
+  background-color: #8ebf42;
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.new-message-btn:hover {
+  background-color: #77a839;
+}
+
+.new-message-btn:focus {
+  outline: none;
+}
