@@ -6,7 +6,7 @@ import FormShoulder from './FormShoulder'
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPersonWalkingArrowRight, faHouse, faPhoneVolume } from '@fortawesome/free-solid-svg-icons';
-
+import soldierboy from "./soldierboy.png"
 export const Volunteerpage = () => {
 
   const [newFormClicked, setNewFormClicked] = useState(0)
@@ -48,7 +48,7 @@ export const Volunteerpage = () => {
       <div className="website-description">
         <div className="website-description-container">
           <div className="website-description-image">
-            <img src='../soldierboy.png' alt="Soldier" />
+            <img src={soldierboy} alt="Soldier" />
           </div>
           <div className="website-description-container-complete">
             <div className="website-description-pos-right">

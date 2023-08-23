@@ -40,7 +40,6 @@ function loginState() {
     <div id='body-container'>
       <nav id='navbar'>
 
-        <Link to='/Volunteer' className="link"><img className="logo" src="../../logo.jpg" alt="MindGames Logo" /></Link>
 
         <div className="nav-title"><Link to='/Soldier' className="link navLink">בית</Link><span></span></div>
         {loginNav}
